@@ -10,6 +10,7 @@ func main() {
 	fmt.Println(b, c)
 
 	// short hand for declaring variables
+	// only available inside function bodies
 	d := 2.4
 	fmt.Println(d)
 
